@@ -1,3 +1,4 @@
 import random
 a = random.randomint(1,1000)
 print(a)
+12345
